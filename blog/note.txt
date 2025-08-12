@@ -1,0 +1,8 @@
+Run => Path/FastAPI> uvicorn blog.main:app --reload
+
+
+password hasing -> pip install passlib
+
+
+
+DB -> is type of session
